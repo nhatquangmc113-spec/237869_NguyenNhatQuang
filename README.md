@@ -120,3 +120,7 @@ Giao diện chạy tại `http://localhost:5173`.
 
 ## Frontend Docker Image
 - Docker Hub: https://hub.docker.com/r/nhatquang237869/frontend
+
+## Docker Image Links
+- Backend: https://hub.docker.com/r/nhatquang237869/backend
+- Frontend: https://hub.docker.com/r/nhatquang237869/frontend
