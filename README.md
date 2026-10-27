@@ -108,3 +108,6 @@ Giao diện chạy tại `http://localhost:5173`.
 - Render App (web-237869): _(cập nhật sau)_
 - Render API (api-237869): _(cập nhật sau)_
 - MongoDB Atlas: _(cập nhật sau)_
+
+## Backend Docker Image
+- Docker Hub: https://hub.docker.com/r/nhatquang237869/backend
