@@ -81,7 +81,7 @@ Dữ liệu mẫu nằm ở `backend/seed/employees.sample.json`. Nạp vào dat
 
 ```bash
 cd backend
-cp .env.example .env     # rồi điền MONGODB_URI thật vào file .env
+cp .env.example .env    
 npm install
 npm run dev
 ```
