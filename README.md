@@ -105,6 +105,6 @@ Giao diện chạy tại `http://localhost:5173`.
 - GitHub repository: https://github.com/nhatquangmc113-spec/237869_NguyenNhatQuang
 - Docker Hub Backend: https://hub.docker.com/r/nhatquang237869/backend
 - Docker Hub Frontend: https://hub.docker.com/r/nhatquang237869/frontend
-- Render App (web-237869): _(cập nhật sau)_
-- Render API (api-237869): _(cập nhật sau)_
-- MongoDB Atlas: _(cập nhật sau)_
+- Render App (web-237869): https://web-237869.onrender.com
+- Render API (api-237869): https://api-237869.onrender.com
+- MongoDB Atlas: mongodb+srv://nhatquangmc113_db_user:331789330a@cluster0.u47lfjl.mongodb.net/
