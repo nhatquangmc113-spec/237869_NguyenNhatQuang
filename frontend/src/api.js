@@ -1,5 +1,5 @@
 // Địa chỉ Backend lấy từ biến môi trường VITE_API_URL (xem .env.example)
-const API_URL = (import.meta.env.VITE_API_URL || 'http://localhost:5000').replace(/\/$/, '');
+const API_URL = (import.meta.env.VITE_API_URL || 'https://api-237869.onrender.com').replace(/\/$/, '');
 
 async function request(path, options = {}) {
   let response;
