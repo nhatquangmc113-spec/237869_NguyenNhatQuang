@@ -4,7 +4,7 @@
 
 - Họ tên: Nguyễn Nhật Quang
 - MSSV: 237869
-- Lớp: _(điền tên lớp)_
+- Lớp: DH23TIN10
 
 ## Mô tả hệ thống
 
