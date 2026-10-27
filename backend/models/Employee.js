@@ -19,10 +19,10 @@ const employeeSchema = new mongoose.Schema(
     position: { type: String, trim: true, default: '' },
     email: {
       type: String,
+      required: [true, 'Email là bắt buộc'],
       trim: true,
       lowercase: true,
-      match: [/^$|^\S+@\S+\.\S+$/, 'Email không hợp lệ'],
-      default: '',
+      match: [/^\S+@\S+\.\S+$/, 'Email không hợp lệ'],
     },
     phone: { type: String, trim: true, default: '' },
     hireDate: { type: Date },
