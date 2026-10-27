@@ -1,0 +1,50 @@
+[
+  {
+    "employeeId": "NV001",
+    "fullName": "Nguyễn Văn An",
+    "gender": "Nam",
+    "dateOfBirth": "1995-03-15",
+    "department": "Công nghệ thông tin",
+    "position": "Lập trình viên",
+    "email": "an.nguyen@example.com",
+    "phone": "0901000001",
+    "hireDate": "2021-06-01",
+    "status": "Đang làm việc"
+  },
+  {
+    "employeeId": "NV002",
+    "fullName": "Trần Thị Bình",
+    "gender": "Nữ",
+    "dateOfBirth": "1992-11-02",
+    "department": "Nhân sự",
+    "position": "Chuyên viên nhân sự",
+    "email": "binh.tran@example.com",
+    "phone": "0901000002",
+    "hireDate": "2019-09-15",
+    "status": "Đang làm việc"
+  },
+  {
+    "employeeId": "NV003",
+    "fullName": "Lê Minh Cường",
+    "gender": "Nam",
+    "dateOfBirth": "1988-07-21",
+    "department": "Kế toán",
+    "position": "Kế toán trưởng",
+    "email": "cuong.le@example.com",
+    "phone": "0901000003",
+    "hireDate": "2017-02-20",
+    "status": "Đang làm việc"
+  },
+  {
+    "employeeId": "NV004",
+    "fullName": "Phạm Thu Dung",
+    "gender": "Nữ",
+    "dateOfBirth": "1997-01-30",
+    "department": "Kinh doanh",
+    "position": "Nhân viên kinh doanh",
+    "email": "dung.pham@example.com",
+    "phone": "0901000004",
+    "hireDate": "2023-04-10",
+    "status": "Nghỉ phép"
+  }
+]

@@ -49,6 +49,27 @@ Frontend giao tiếp với Backend qua REST API; dữ liệu lưu trên MongoDB 
 └── .gitignore
 ```
 
+## Cơ sở dữ liệu
+
+- Nền tảng: MongoDB Atlas (cluster `Cluster0`)
+- Database: `237869_NguyenNhatQuang`
+- Collection: `employees`
+
+| Trường | Kiểu | Ý nghĩa |
+|---|---|---|
+| employeeId | String | Mã nhân viên, duy nhất |
+| fullName | String | Họ và tên |
+| gender | String | Giới tính |
+| dateOfBirth | Date | Ngày sinh |
+| department | String | Phòng ban |
+| position | String | Chức vụ |
+| email | String | Email |
+| phone | String | Số điện thoại |
+| hireDate | Date | Ngày vào làm |
+| status | String | Trạng thái làm việc |
+
+Dữ liệu mẫu nằm ở `backend/seed/employees.sample.json`. Nạp vào database bằng `npm run seed` (trong thư mục `backend`, cần file `.env`).
+
 ## Hướng dẫn chạy ở môi trường phát triển
 
 ### Yêu cầu
